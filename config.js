@@ -40,10 +40,10 @@ global.snh = '' // my youtube channel
 global.pdana = '083181085070' //dana
 global.povo = '083181085070' //ovo
 global.pgopay = '083181085070' //gopay
-global.plinkaja= 'https://telegra.ph/file/0a45f1b33c608b7b23a8e.jpg' //Qris Payment
-global.ppulsa = '085794152433' //Indosa
-global.ppulsa2 = '083181085070' // kalau ada kartu lain isi aja
-global.QrisPayment2 = 'https://telegra.ph/file/72018aa1cf02da7ed1bd6.jpg'
+global.plinkaja = '083181085070' //link aja
+global.ppulsa = '083181085070' //telkomsel
+global.ppulsa2 = '085794152433' // kalau ada kartu lain isi aja
+global.psaweria = 'https://telegra.ph/file/0a45f1b33c608b7b23a8e.jpg'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6283181085070'
