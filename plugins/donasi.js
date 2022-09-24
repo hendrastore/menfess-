@@ -1,14 +1,14 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 let text = `
 ┌─「 Donasi • Pulsa 」
-│ • *Telkomsel:* [${global.ppulsa}]
+│ • *Indosat:* [${global.ppulsa}]
 ❏────
 
 ┌─「 Donasi • Non Pulsa 」
 │ • *Dana:* [${global.pdana}]
 │ • *Gopay:* [${global.pgopay}]
 │ • *Ovo:* [${global.povo}]
-│ • *Link Aja:* [${global.plinkaja}]
+│ • *QrjsPayment 2:* [${global.plinkaja}]
 ❏────
 `.trim()
   m.reply(text)
