@@ -37,13 +37,13 @@ global.sdc = '-' //discord
 global.snh = '' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '083181085070' //dana
-global.povo = '083181085070' //ovo
-global.pgopay = '083181085070' //gopay
-global.plinkaja = '083181085070' //link aja
-global.ppulsa = '083181085070' //telkomsel
-global.ppulsa2 = '085794152433' // kalau ada kartu lain isi aja
-global.psaweria = 'https://telegra.ph/file/0a45f1b33c608b7b23a8e.jpg'
+global.pdana = '08XXXXXXXXXX' //dana
+global.povo = '08XXXXXXXXXX' //ovo
+global.pgopay = '08XXXXXXXXXX' //gopay
+global.plinkaja = '08XXXXXXXXXX' //link aja
+global.ppulsa = '08XXXXXXXXXX' //telkomsel
+global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
+global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6283181085070'
@@ -189,8 +189,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'HendraBotz-MD'
-global.stickauth = `By Hendra-Botz-MD`
+global.stickpack = 'HendraBotz'
+global.stickauth = `By HendraBotz`
 
 global.multiplier = 38 // The higher, The harder levelup
 
